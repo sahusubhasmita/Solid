@@ -1,0 +1,7 @@
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\bin\Debug\SolidHotelManagement.exe.config
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\bin\Debug\SolidHotelManagement.exe
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\bin\Debug\SolidHotelManagement.pdb
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\obj\Debug\SolidHotelManagement.csproj.AssemblyReference.cache
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\obj\Debug\SolidHotelManagement.csproj.CoreCompileInputs.cache
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\obj\Debug\SolidHotelManagement.exe
+C:\.NetTraining\SolidHotelManagement\SolidHotelManagement\obj\Debug\SolidHotelManagement.pdb
